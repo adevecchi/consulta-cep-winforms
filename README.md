@@ -9,4 +9,4 @@ Cliente para consumir Web Service SOAP dos Correios, consultando o CEP e retorna
 
 https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl
 
-![Tela principal](https://github.com/adevecchi/consulta-cep-winforms/tree/main/screenshot/consulta-cep.png)
+![Tela principal](https://github.com/adevecchi/consulta-cep-winforms/blob/main/screenshot/consulta-cep.png)
